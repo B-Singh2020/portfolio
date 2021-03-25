@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import TitleMessage from "../title-message/title-message.component";
 
 const MyScroll = styled.div`
   position: relative;
@@ -20,14 +19,13 @@ const MyScroll = styled.div`
 `;
 
 const ScrollDown = () => {
- return (
-
+  return (
     <MyScroll>
       <div className="turn">
         <span> &gt; </span>
       </div>
     </MyScroll>
- )
-}
+  );
+};
 
-export default ScrollDown
+export default ScrollDown;
