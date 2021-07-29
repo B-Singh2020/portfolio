@@ -2,9 +2,10 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import Image from "react-bootstrap/Image";
 import "./about.style.css";
 import Profile from "../../assets/img/profile/profile.webp";
-import Image from "react-bootstrap/Image";
+
 import Button from "react-bootstrap/Button";
 
 const About = () => {
