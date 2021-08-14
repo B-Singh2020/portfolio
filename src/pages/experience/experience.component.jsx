@@ -11,7 +11,7 @@ const Experience = () => {
     return (
       <div id="experience">
         <h1 className="pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
-        
+        <Jumbotron className="jumbo-style">
           <Container>
             <Tilt options={{ max: 5 }}>
               <Card >
@@ -33,7 +33,7 @@ const Experience = () => {
                         <li><strong>Guide</strong> clients to ensure proper implementation and enforcement of CMMC standards</li>
                         <li><strong>Produce</strong> sample security assessments to provide clients aid in preparing for CMMC certification
                         </li>
-                        <li><strong>Create</strong> informational resources such as user guides to support user experience 
+                        <li><strong>Create</strong>  informational resources such as user guides to support user experience 
                         </li>
                         
                         {/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
@@ -47,10 +47,12 @@ const Experience = () => {
               </Card>
             </Tilt>
           </Container>
+          </Jumbotron>
           <br>
           </br>
           <br>
           </br>
+        <Jumbotron className="jumbo-style">
           <Container>
             <Tilt options={{ max: 5 }}>
               <Card>
@@ -86,11 +88,12 @@ const Experience = () => {
               </Card>
             </Tilt>
           </Container>
-
+        </Jumbotron>
           <br>
           </br>
           <br>
           </br>
+        <Jumbotron className="jumbo-style">
           <Container>
             <Tilt options={{ max: 5 }}>
               <Card>
@@ -126,7 +129,7 @@ const Experience = () => {
               </Card>
             </Tilt>
           </Container>
-        
+        </Jumbotron>
       </div>
     );
   };

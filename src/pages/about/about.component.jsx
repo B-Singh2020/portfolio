@@ -23,14 +23,15 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
                 Hello! I am <strong>&nbsp;Bhupinder Singh</strong>
-                <br />A passionate programmer and a Coach, born and brought up in India. I am a Full Stack Web Developer with React.js, Redux, Express.js, Node.js, and PostgreSQL as my tech stack.
+                <br />I am a passionate programmer born and raised in the Washington D.C. metropolitian area. I am interested in pursuing software developer roles and my programming skills include Java, Javascript, Python, and C.
+
                 <br />
-                In 2019, I successfully completed my Engineering with specialization in 'Electronics and Telecommunication'.
+                I am a Senior Computer Science student at George Mason University and will graduate in December 2021.
                 <br />
-                Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
+                While working with clients, my goal is always driven towards providing an amazing experience with the best level of quality and service.
                 <br />
-                Along with that, I also help people as a COACH on their journey of becoming a professional programmer. 
-                <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
+                Along with that, I love working collaboratively to develop technical solutions for business challenges. 
+                <br />I enjoy learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
                 <br /> <br />
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
