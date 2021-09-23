@@ -23,7 +23,7 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
                 Hello! I am <strong>&nbsp;Bhupinder Singh</strong>
-                <br />I am a passionate programmer born and raised in the Washington D.C. metropolitian area. I am interested in pursuing software developer roles and my programming skills include Java, Javascript, Python, and C.
+                <br />I am a passionate programmer born and raised in the Washington D.C. metropolitian area. 
 
                 <br />
                 I am a Senior Computer Science student at George Mason University and will graduate in December 2021.
@@ -42,7 +42,7 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="https://drive.google.com/file/d/1DG3D7yUIjIOzvmRlktpkWeYvyt-APF-p/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1Aq-pwc382OLOp1pO7_arZESj6M56ai_T/view" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
