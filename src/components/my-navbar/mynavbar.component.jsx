@@ -15,7 +15,7 @@ const MyNavbar = () => {
       >
         <div>
           <Navbar.Brand href="#home">
-          <img className="logo" src={Logo} alt="" />
+          
           </Navbar.Brand>
         </div>
         <div>

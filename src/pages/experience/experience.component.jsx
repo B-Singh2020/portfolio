@@ -30,10 +30,12 @@ const Experience = () => {
                       <br/>
                       <strong> Description </strong>
                       <ul className="text-left">
-                        <li><strong>Guide</strong> clients to ensure proper implementation and enforcement of CMMC standards</li>
-                        <li><strong>Produce</strong> sample security assessments to provide clients aid in preparing for CMMC certification
+                        <li><strong>Increased</strong> clients by 35% through hosting webinars on CMMC standards and consultation platform</li>
+                        <li><strong>Support</strong> technical proposals for various cybersecurity contract bids 
                         </li>
-                        <li><strong>Create</strong>  informational resources such as user guides to support user experience 
+                        <li><strong>Author</strong> sample CMMC Level 1 security assessments to aid client’s gap analysis 
+                        </li>
+                        <li><strong>Advise</strong> clients on proper implementation of CMMC and conduct product demonstrations 
                         </li>
                         
                         {/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
