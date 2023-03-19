@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.00fbd687.chunk.css",
-    "main.js": "/portfolio/static/js/main.fcbfb880.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.fcbfb880.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.6becef1f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6becef1f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6253c226.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.6253c226.js.map",
     "static/js/2.3de49690.chunk.js": "/portfolio/static/js/2.3de49690.chunk.js",
@@ -20,6 +20,7 @@
     "static/media/background.f6814621.webp": "/portfolio/static/media/background.f6814621.webp",
     "static/media/c-program.22ea43c1.svg": "/portfolio/static/media/c-program.22ea43c1.svg",
     "static/media/css3.8fba365c.svg": "/portfolio/static/media/css3.8fba365c.svg",
+    "static/media/fp.ebd9c885.jpg": "/portfolio/static/media/fp.ebd9c885.jpg",
     "static/media/git-icon.c60b7e5a.svg": "/portfolio/static/media/git-icon.c60b7e5a.svg",
     "static/media/github.740db6be.svg": "/portfolio/static/media/github.740db6be.svg",
     "static/media/go-6.4c88fbf9.svg": "/portfolio/static/media/go-6.4c88fbf9.svg",
@@ -34,7 +35,6 @@
     "static/media/mongodb.d89a6eeb.svg": "/portfolio/static/media/mongodb.d89a6eeb.svg",
     "static/media/mssql.18f84630.svg": "/portfolio/static/media/mssql.18f84630.svg",
     "static/media/postgresql.ae92b576.svg": "/portfolio/static/media/postgresql.ae92b576.svg",
-    "static/media/profile.bdbebbb1.webp": "/portfolio/static/media/profile.bdbebbb1.webp",
     "static/media/python.e6d7dc73.svg": "/portfolio/static/media/python.e6d7dc73.svg",
     "static/media/react.add74742.svg": "/portfolio/static/media/react.add74742.svg",
     "static/media/shell.8611f20e.JPG": "/portfolio/static/media/shell.8611f20e.JPG",
@@ -49,6 +49,6 @@
     "static/js/runtime-main.6253c226.js",
     "static/js/2.3de49690.chunk.js",
     "static/css/main.00fbd687.chunk.css",
-    "static/js/main.fcbfb880.chunk.js"
+    "static/js/main.6becef1f.chunk.js"
   ]
 }
